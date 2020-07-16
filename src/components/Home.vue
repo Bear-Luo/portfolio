@@ -4,7 +4,6 @@
       <a class="uk-alert-close" uk-close></a>
       <p>以下專案因部分為單位內部網站，或尚未上線之網站，故以截取部分畫面呈現。</p>
     </div>
-    <!-- <button type="button" @click="openLightbox">test</button> -->
     <div class="uk-grid-collapse uk-child-width-1-2@m uk-flex-between@m" uk-grid>
       <div
         class="uk-card uk-grid-collapse uk-card-default uk-margin-medium-bottom uk-child-width-1-2@s"
@@ -32,10 +31,10 @@
         </div>
         <div>
           <div class="uk-card-body">
-            <h3 class="uk-card-title">臺電秘書處網站</h3>
+            <h3 class="uk-card-title">台電秘書處網站</h3>
             <ul class="uk-list uk-list-hyphen">
               <li>使用 Uikit 製作 RWD 與效果套用</li>
-              <li>使用 JQuery 變換佈景主題</li>
+              <li>使用 JQuery 變換主題與效果套用</li>
               <li>UI 繪製</li>
             </ul>
           </div>
