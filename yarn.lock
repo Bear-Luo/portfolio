@@ -8319,6 +8319,11 @@ uglify-js@3.4.x:
     commander "~2.19.0"
     source-map "~0.6.1"
 
+uikit@^3.5.5-dev.e0e4c265f:
+  version "3.5.5-dev.e0e4c265f"
+  resolved "https://registry.yarnpkg.com/uikit/-/uikit-3.5.5-dev.e0e4c265f.tgz#ff66095f453fdc9288d69e63da68e1c6f37ba95a"
+  integrity sha512-tz1DA3J+sMyUFkB6Mry9bg36l4fAVIY7hoZl1lq0S05IItx/Cxl9jG9bFwVL5kbblsdNVCrtSPpuBtRGh8nTpQ==
+
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
   resolved "https://registry.npm.taobao.org/unicode-canonical-property-names-ecmascript/download/unicode-canonical-property-names-ecmascript-1.0.4.tgz#2619800c4c825800efdd8343af7dd9933cbe2818"
